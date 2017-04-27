@@ -74,6 +74,7 @@ Load the necessary files needed to reach end state (Tidy.txt):
 **Step 4: Change labels of measure headers**
 
 Using gsub command, change labels of headers to appropriate values. File feauters_info.txt from source zip contains details on column names.
+
  ----------
 
 **Step 5: Change labels of measure headers**
